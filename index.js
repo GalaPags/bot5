@@ -21,8 +21,9 @@ function start() {
     }).catch((r) => {
         loggy.error(`The bot is not running: ${r}`)
     })
-
-    web.listen(3000, () => loggy.success('The general backend was successfully launched'))
+    
+    const port = 3000;
+    web.listen(port, () => loggy.success('The general backend was successfully launched'))
 }
 
 start()

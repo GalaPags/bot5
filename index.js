@@ -22,7 +22,7 @@ function start() {
         loggy.error(`The bot is not running: ${r}`)
     })
 
-    web.listen(const PORT = process.env.PORT || 3000, () => loggy.success('The general backend was successfully launched'))
+    web.listen(3000, () => loggy.success('The general backend was successfully launched'))
 }
 
 start()

